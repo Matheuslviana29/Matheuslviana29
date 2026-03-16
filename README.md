@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Lima Viana
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC. Estou em busca do primeiro estágio em TI, buscando sempre aprimorar o máximo de conhecimento possível.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 
 ## Tecnologias & Ferramentas
 
