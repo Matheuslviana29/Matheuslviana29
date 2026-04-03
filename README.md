@@ -33,5 +33,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=Matheuslviana29&theme=dark" alt="Animação da cobrinha de contribuições do GitHub"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Calendário 3D de Contribuições"/>
 </div>
