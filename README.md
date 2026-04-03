@@ -1,9 +1,5 @@
 # Olá, eu sou o Matheus Lima Viana
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ED8B00&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Trabalhando+com+Java,+React+e+Node.js" alt="Texto Animado" />
-</div>
-
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 
 ## Tecnologias & Ferramentas
@@ -36,11 +32,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 
 ---
 
-### Minhas Conquistas
-
-### Minhas Estatísticas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheuslviana29&show_icons=true&theme=onedark&hide_border=true&title_color=ED8B00&icon_color=ED8B00" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslviana29&layout=compact&theme=onedark&hide_border=true&title_color=ED8B00" alt="Top Linguagens" height="150" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=Matheuslviana29&theme=dark" alt="Animação da cobrinha de contribuições do GitHub"/>
 </div>
