@@ -37,8 +37,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 ### Bem-vindo à minha "SimCity" de Códigos
 
 <div align="center">
-  <a href="https://honzaap.github.io/GithubCity/?name=Matheuslviana29" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_a_Minha_Cidade_3D-181717?style=for-the-badge&logo=github&logoColor=white" alt="Botão para o GitHub City" />
-  </a>
-  <p><i>Clique no botão acima para voar pela minha cidade de commits interativa!</i></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheuslviana29&theme=onedark&no-frame=true&row=1&column=7" alt="Troféus do Matheus" />
 </div>
