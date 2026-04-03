@@ -1,7 +1,7 @@
 # Olá, eu sou o Matheus Lima Viana
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ED8B00&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Estudante+de+ADS;Trabalhando+com+Java,+React+e+Node.js" alt="Texto Animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ED8B00&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Trabalhando+com+Java,+React+e+Node.js" alt="Texto Animado" />
 </div>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
@@ -36,9 +36,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 
 ---
 
----
-
-### Bem-vindo à minha "SimCity" de Códigos
+### Minhas Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Matheuslviana29&theme=onedark&no-frame=true&row=1&column=7" alt="Troféus do Matheus" />
