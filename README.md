@@ -38,6 +38,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 
 ### Minhas Conquistas
 
+### Minhas Estatísticas
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheuslviana29&theme=onedark&no-frame=true&row=1&column=7" alt="Troféus do Matheus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheuslviana29&show_icons=true&theme=onedark&hide_border=true&title_color=ED8B00&icon_color=ED8B00" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslviana29&layout=compact&theme=onedark&hide_border=true&title_color=ED8B00" alt="Top Linguagens" height="150" />
 </div>
