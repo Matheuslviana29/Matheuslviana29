@@ -1,5 +1,9 @@
 # Olá, eu sou o Matheus Lima Viana
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ED8B00&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Estudante+de+ADS;Trabalhando+com+Java,+React+e+Node.js" alt="Texto Animado" />
+</div>
+
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade SENAC.
 
 ## Tecnologias & Ferramentas
