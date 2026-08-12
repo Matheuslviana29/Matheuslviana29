@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=150&section=header&text=Matheus%20Lima%20Viana&fontSize=50&fontColor=ffffff&descAlignY=75&descAlign=50" alt="Matheus Lima Viana" />
+  <img src="matrix.svg" alt="Matheus Lima Viana Matrix Banner" />
 </div>
 
 <br>
@@ -29,6 +29,25 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
+
+##  GitHub Stats
+
+---
+
+<div align="center">
+  <a href="https://github.com/Matheuslviana29">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matheuslviana29&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00&border_radius=10" height="150" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Matheuslviana29">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslviana29&layout=compact&bg_color=000000&title_color=00FF00&text_color=FFFFFF&border_color=00FF00&border_radius=10" height="150" alt="Top Languages"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/Matheuslviana29">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuslviana29&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&title_color=00FF00" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</div>
+
+<br>
 
 ##  Main Projects
 
