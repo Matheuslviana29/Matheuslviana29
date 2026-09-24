@@ -36,14 +36,14 @@
 
 <div align="center">
   <a href="https://github.com/Matheuslviana29">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matheuslviana29&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00&border_radius=10" height="150" alt="GitHub Stats"/>
+    <img src="./assets/github-stats.svg" height="150" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Matheuslviana29">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslviana29&layout=compact&bg_color=000000&title_color=00FF00&text_color=FFFFFF&border_color=00FF00&border_radius=10" height="150" alt="Top Languages"/>
+    <img src="./assets/top-languages.svg" height="150" alt="Top Languages"/>
   </a>
   <br><br>
   <a href="https://github.com/Matheuslviana29">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuslviana29&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&title_color=00FF00" alt="GitHub Activity Graph" width="100%" />
+    <img src="./assets/github-activity.svg" alt="GitHub Activity Graph" width="100%" />
   </a>
 </div>
 
