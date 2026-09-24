@@ -30,25 +30,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-##  GitHub Stats
-
----
-
-<div align="center">
-  <a href="https://github.com/Matheuslviana29">
-    <img src="./assets/github-stats.svg" height="150" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Matheuslviana29">
-    <img src="./assets/top-languages.svg" height="150" alt="Top Languages"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/Matheuslviana29">
-    <img src="./assets/github-activity.svg" alt="GitHub Activity Graph" width="100%" />
-  </a>
-</div>
-
-<br>
-
 ##  Main Projects
 
 ---
